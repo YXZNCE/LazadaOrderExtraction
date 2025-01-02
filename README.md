@@ -49,4 +49,4 @@ this collects order data across multiple pages, and can export it to an Excel fi
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (or remove this section if not applicable).
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/YXZNCE/LazadaOrderExtraction/blob/master/LICENSE.txt) file for details.
