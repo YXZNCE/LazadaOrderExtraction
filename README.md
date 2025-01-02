@@ -64,6 +64,10 @@ Under no circumstances shall the author be liable for any direct, indirect, inci
 7. After scraping all pages, **view** the summary in the console.  
 8. (Optional) Export the results to an Excel file via a helper method such as `ExportToExcel(allOrders, "output.xlsx")`.
 
+## Preview Image
+
+![Preview Image](https://github.com/YXZNCE/LazadaOrderExtraction/blob/master/Images/preview.png?raw=true)
+
 ## Additional Notes
 
 - **Timeouts**: if pages take longer to load, adjust the `Task.Delay(...)` or use `WaitForSelectorAsync(...)` to make sure content is fully loaded.  
