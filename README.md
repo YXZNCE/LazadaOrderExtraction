@@ -3,6 +3,28 @@
 A simple .NET console application that uses **PuppeteerSharp** to scrape order details like price, quantity, name from Lazada Philippines.  
 this collects order data across multiple pages, and can export it to an Excel file for easy viewing or bookkeeping.
 
+## Disclaimer
+**⚠️ Important Notice ⚠️**
+
+This software is provided **"as is"** without any warranties, express or implied. The author **does not** accept any responsibility or liability for any damages, losses, or issues arising from the use or misuse of this tool.
+
+### Intended Use
+
+This tool is **exclusively** designed for **personal use** to help users manage and optimize their own Lazada [PH] orders. It is **not** intended for commercial purposes, data mining, or any activities that violate Lazada's [Terms & Conditions](https://www.lazada.com.ph/terms-conditions/).
+
+### Compliance
+
+Users are **responsible** for ensuring that their use of this software complies with all applicable laws, regulations, and Lazada's [Platform Engagement Tools Terms & Conditions](https://www.lazada.com.ph/terms-conditions/). The author **does not** endorse or support any actions that infringe upon these terms.
+
+### No Warranty
+
+The author makes **no guarantees** regarding the functionality, accuracy, or reliability of this tool. Use it at your **own risk**.
+
+### Limitation of Liability
+
+Under no circumstances shall the author be liable for any direct, indirect, incidental, special, or consequential damages resulting from the use or inability to use this software.
+ 
+
 ## Features
 
 - **Manual Login**: Allows you to log in via a real browser window (headless = false).  
